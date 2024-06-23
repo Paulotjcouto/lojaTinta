@@ -1,4 +1,4 @@
-# Sistema de Vendas em Java
+# Sistema de Vendas em Java - Loja de Tintas  - Trabalho Final LP e POO.
 
 Este é um projeto de implementação de um sistema de vendas de Tintas e matérias de construção relacionado com pintura em Java, com interface gráfica usando Swing. O sistema permite que os usuários visualizem uma vitrine de produtos, adicionem itens ao carrinho, visualizem o carrinho, realizem o pagamento e efetuem o logout tudo  isso com uma interface amigável e de fácil entendimento.
 
