@@ -11,22 +11,27 @@ Este é um projeto de implementação de um sistema de vendas de Tintas e matér
 - Exibe uma variedade de produtos disponíveis para venda.
 - Cada produto é representado por uma imagem, nome, preço e opção para adicionar ao carrinho.
 - Os produtos são carregados a partir de um estoque pré-definido.
+- ![image](https://github.com/Paulotjcouto/lojaTinta/assets/50954999/385409dc-d1c3-44dd-98e1-75687a788fb5)
+
 
 ### Adição de Produtos ao Carrinho ➕:
 - Os usuários podem selecionar produtos na vitrine e adicionar ao carrinho.
 - Eles podem escolher o tamanho do produto, se aplicável.
- 
+ ![image](https://github.com/Paulotjcouto/lojaTinta/assets/50954999/8307e7df-04d8-4cc5-99a3-f2103d164460)
+
 
 ### Tela do Carrinho 🛒:
 - Exibe todos os itens atualmente no carrinho, incluindo imagem, nome, preço, quantidade e subtotal de cada item.
 - Permite que os usuários visualizem o total do carrinho.
 - Oferece opções para esvaziar o carrinho ou proceder para o pagamento.
- 
+ ![image](https://github.com/Paulotjcouto/lojaTinta/assets/50954999/f5a9a709-22e1-43c9-b1dc-0714ae115f4b)
+
 
 ### Pagamento 💳:
 - Ao proceder para o pagamento, os usuários são redirecionados para uma tela de pagamento onde podem inserir suas informações de pagamento.
 - Após o pagamento ser concluído com sucesso, o carrinho é esvaziado e uma mensagem de confirmação é exibida.
- 
+ ![image](https://github.com/Paulotjcouto/lojaTinta/assets/50954999/e449c8f9-e360-42b1-b5f3-2290e03f4417)
+
 
  
 
