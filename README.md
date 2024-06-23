@@ -18,6 +18,8 @@ Este é um projeto de implementação de um sistema de vendas de Tintas e matér
 ### Adição de Produtos ao Carrinho ➕:
 - Os usuários podem selecionar produtos na vitrine e adicionar ao carrinho.
 - Eles podem escolher o tamanho do produto, se aplicável.
+
+  
  ![image](https://github.com/Paulotjcouto/lojaTinta/assets/50954999/8307e7df-04d8-4cc5-99a3-f2103d164460)
 
 
