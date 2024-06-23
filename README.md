@@ -51,6 +51,10 @@ O sistema é composto por várias classes Java que se comunicam para fornecer fu
 - O estoque de produtos é carregado a partir de um arquivo de dados.
 - As interações do usuário são tratadas por meio de `ActionListeners` associados a botões e outros componentes de interface.
 
+- ## Banco de Dados
+- SQLite: Banco de dados relacional embutido para armazenar dados da aplicação.
+- SQLite JDBC Driver: Para conectar a aplicação Java ao banco de dados SQLite.
+
 ## Vídeo de Demonstração 🎥
 https://github.com/Paulotjcouto/lojaTinta/blob/main/WhatsApp%20Video%202024-06-23%20at%2019.08.37.mp4
 ## Diagrama de Classes 📊
