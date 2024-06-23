@@ -39,6 +39,8 @@ Este é um projeto de implementação de um sistema de vendas de Tintas e matér
 ### Sair 🔐:
 - Os usuários têm a opção de fazer logout do sistema a qualquer momento.
 - Ao fazer logout, eles são redirecionados para a tela de login.
+- Usuário: admin
+- Senha: 123
 
 ## Funcionamento do Código 💻:
 O sistema é composto por várias classes Java que se comunicam para fornecer funcionalidades específicas. As classes principais incluem `TelaPrincipal`, `TelaCarrinho`, `TelaPagamento`, `TelaLogin`, `Carrinho`, `Estoque`, `Produto` e `ItemVenda`.
