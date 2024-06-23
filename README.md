@@ -3,6 +3,7 @@
 Este é um projeto de implementação de um sistema de vendas de Tintas e matérias de construção relacionado com pintura em Java, com interface gráfica usando Swing. O sistema permite que os usuários visualizem uma vitrine de produtos, adicionem itens ao carrinho, visualizem o carrinho, realizem o pagamento e efetuem o logout tudo  isso com uma interface amigável e de fácil entendimento.
 
  
+![1920x1200-logotipo-de-la-pintura-de-casa-94687197](https://github.com/Paulotjcouto/lojaTinta/assets/50954999/a856de3a-37cf-4ced-b089-525904576b5a)
 
 
 
