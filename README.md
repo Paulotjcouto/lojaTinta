@@ -42,5 +42,6 @@ O sistema é composto por várias classes Java que se comunicam para fornecer fu
 - As interações do usuário são tratadas por meio de `ActionListeners` associados a botões e outros componentes de interface.
 
 ## Vídeo de Demonstração 🎥
-Aguardando Gustavo mudar o front
+
 ## Diagrama de Classes 📊
+![image](https://github.com/Paulotjcouto/lojaTinta/assets/50954999/5c728102-33c7-4d10-8d74-17de482ecd39)
